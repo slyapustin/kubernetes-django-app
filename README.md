@@ -20,3 +20,4 @@ Sample Django application deployed with [Kubernetes](https://kubernetes.io)
 
 ## Helpful links
  - [Introduction to Kubernetes - Docker for Mac/Windows](https://www.youtube.com/watch?v=6NG_cUeuNhU)
+ - [Kubernetes Introduction by Kevin Simper](https://www.kevinsimper.dk/posts/kubernetes-introduction)
