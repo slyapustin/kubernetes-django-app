@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: kubernetes-django-deployment
   labels:
-    app: nginx
+    app: kubernetes-django
 spec:
   replicas: 1
   selector:
